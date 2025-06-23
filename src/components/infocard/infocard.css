@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1220px;
+    margin: 0 auto;
+}
+.card3{
+    width: 360px;
+    height: 500px;
+    box-shadow: 0px 4px 4px 0px #00000040;
+ background-color: white;
+ padding: 16px;
+ margin-bottom: 100px;
+ border-radius: 10px;
+}
+h2{
+    font-family: Open Sans;
+font-weight: 700;
+font-size: 20px;
+line-height: 100%;
+letter-spacing: 1.2%;
+color: #009AF0;
+padding: 10px;
+}
+p{
+    font-family: Open Sans;
+font-weight: 400;
+font-size: 16px;
+line-height: 100%;
+letter-spacing: 1.2%;
+color: #1E1E1E;
+padding-bottom: 10px;
+}
+.btn{
+    width: 112px;
+    height: 38px;
+    background-color: #009AF0;
+    color: white;
+    border-radius: 10px;
+    border: none;
+}
